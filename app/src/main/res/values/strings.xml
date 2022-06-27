@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InternetSpeedFinder</string>
+    <string name="str_zero_speed">0.0</string>
+    <string name="current_speed">Current Speed</string>
+    <string name="mean_speed">Mean Speed</string>
+    <string name="maximum_speed">Maximum Speed</string>
+    <string name="minimum_speed">Minimum Speed</string>
+    <string name="print">Print</string>
+
+
+    <string name="bind_service">Bind service</string>
+    <string name="unbind_service">Unbind service</string>
+    <string name="generate_random_number">Generate random number</string>
+    <string name="local_service_started">Local service started</string>
+    <string name="service_not_bound">Service not bound.</string>
+</resources>
